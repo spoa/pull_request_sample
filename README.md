@@ -1,2 +1,4 @@
 # pull_request_sample
-Pull Request Sample
+Welcome to your Pull Request
+
+Pull Request テスト用サンプル
